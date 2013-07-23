@@ -9,6 +9,10 @@ import java.io.IOException;
 import java.util.Iterator;
 import java.util.StringTokenizer;
 
+/**
+ * Count word frequency from sample Man Of Steel movie review, using Map Reduce 1
+ */
+
 public class ManOfSteelWordCount {
 
     public static class Map extends MapReduceBase implements Mapper<LongWritable, Text, Text, IntWritable> {
@@ -29,7 +33,8 @@ public class ManOfSteelWordCount {
         public void reduce(Text key, Iterator<IntWritable> values, OutputCollector<Text, IntWritable> output, Reporter reporter) throws IOException {
             int sum = 0;
             while(values.hasNext()) {
-                sum += values.next().get();
+                values.next();
+                sum++;
             }
             output.collect(key, new IntWritable(sum));
         }
