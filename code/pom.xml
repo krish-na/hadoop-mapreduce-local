@@ -20,6 +20,7 @@
 
     <properties>
         <hadoop.version>1.1.2</hadoop.version>
+        <mrunit.version>1.0.0</mrunit.version>
     </properties>
 
     <dependencies>
@@ -46,7 +47,7 @@
         <dependency>
             <groupId>org.apache.mrunit</groupId>
             <artifactId>mrunit</artifactId>
-            <version>1.0.0</version>
+            <version>${mrunit.version}</version>
             <classifier>hadoop2</classifier>
         </dependency>
     </dependencies>
