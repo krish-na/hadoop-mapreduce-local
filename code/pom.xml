@@ -9,6 +9,7 @@
     <modules>
         <module>manOfSteelReview</module>
         <module>flumeLogMining</module>
+        <module>averageWordLength</module>
     </modules>
 
     <contributors>
@@ -41,6 +42,12 @@
             <groupId>org.apache.hadoop</groupId>
             <artifactId>hadoop-examples</artifactId>
             <version>${hadoop.version}</version>
+        </dependency>
+        <dependency>
+            <groupId>org.apache.mrunit</groupId>
+            <artifactId>mrunit</artifactId>
+            <version>0.9.0-incubating</version>
+            <classifier>hadoop1</classifier>
         </dependency>
     </dependencies>
 
