@@ -8,8 +8,9 @@
         <artifactId>core</artifactId>
     </parent>
 
-    <artifactId>flumeLogMining</artifactId>
+    <artifactId>logAnalysis</artifactId>
     <packaging>jar</packaging>
+    <version>1.0</version>
     <dependencies/>
 
 </project>

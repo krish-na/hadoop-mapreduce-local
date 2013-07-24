@@ -7,6 +7,7 @@ import org.apache.hadoop.mrunit.mapreduce.ReduceDriver;
 import org.junit.Before;
 import org.junit.Test;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
 
@@ -24,7 +25,7 @@ public class AverageWordCountTest {
     }
 
     @Test
-    public void testMapper() {
+    public void testMapper() throws IOException {
         mapDriver.withInput(new LongWritable(), new Text("Use the force User"));
         mapDriver.withOutput(new Text("U"), new IntWritable(3));
         mapDriver.withOutput(new Text("t"), new IntWritable(3));
@@ -34,7 +35,7 @@ public class AverageWordCountTest {
     }
 
     @Test
-    public void testReducer() {
+    public void testReducer() throws IOException {
         List<IntWritable> values = new ArrayList<IntWritable>();
         values.add(new IntWritable(3));
         values.add(new IntWritable(4));

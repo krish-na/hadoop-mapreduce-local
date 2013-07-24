@@ -8,7 +8,7 @@
 
     <modules>
         <module>manOfSteelReview</module>
-        <module>flumeLogMining</module>
+        <module>logAnalysis</module>
         <module>averageWordLength</module>
     </modules>
 
