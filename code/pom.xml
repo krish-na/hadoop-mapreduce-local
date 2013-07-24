@@ -10,6 +10,7 @@
         <module>manOfSteelReview</module>
         <module>logAnalysis</module>
         <module>averageWordLength</module>
+        <module>logAnalysisCounters</module>
     </modules>
 
     <contributors>
