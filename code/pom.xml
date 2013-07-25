@@ -11,6 +11,8 @@
         <module>logAnalysis</module>
         <module>averageWordLength</module>
         <module>logAnalysisCounters</module>
+        <module>sequenceFile</module>
+        <module>invertedIndex</module>
     </modules>
 
     <contributors>
@@ -49,7 +51,7 @@
             <groupId>org.apache.mrunit</groupId>
             <artifactId>mrunit</artifactId>
             <version>${mrunit.version}</version>
-            <classifier>hadoop2</classifier>
+            <classifier>hadoop1</classifier>
         </dependency>
     </dependencies>
 

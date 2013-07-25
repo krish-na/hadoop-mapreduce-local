@@ -1,0 +1,501 @@
+0	HAMLET
+1
+2
+3	DRAMATIS PERSONAE
+4
+5
+6	CLAUDIUS	king of Denmark. (KING CLAUDIUS:)
+7
+8	HAMLET	son to the late, and nephew to the present king.
+9
+10	POLONIUS	lord chamberlain. (LORD POLONIUS:)
+11
+12	HORATIO	friend to Hamlet.
+13
+14	LAERTES	son to Polonius.
+15
+16	LUCIANUS	nephew to the king.
+17
+18
+19	VOLTIMAND	|
+20	|
+21	CORNELIUS	|
+22	|
+23	ROSENCRANTZ	|  courtiers.
+24	|
+25	GUILDENSTERN	|
+26	|
+27	OSRIC	|
+28
+29
+30	A Gentleman, (Gentlemen:)
+31
+32	A Priest. (First Priest:)
+33
+34
+35	MARCELLUS	|
+36	|  officers.
+37	BERNARDO	|
+38
+39
+40	FRANCISCO	a soldier.
+41
+42	REYNALDO	servant to Polonius.
+43	Players.
+44	(First Player:)
+45	(Player King:)
+46	(Player Queen:)
+47
+48	Two Clowns, grave-diggers.
+49	(First Clown:)
+50	(Second Clown:)
+51
+52	FORTINBRAS	prince of Norway. (PRINCE FORTINBRAS:)
+53
+54	A Captain.
+55
+56	English Ambassadors. (First Ambassador:)
+57
+58	GERTRUDE	queen of Denmark, and mother to Hamlet.
+59	(QUEEN GERTRUDE:)
+60
+61	OPHELIA	daughter to Polonius.
+62
+63	Lords, Ladies, Officers, Soldiers, Sailors, Messengers,
+64	and other Attendants. (Lord:)
+65	(First Sailor:)
+66	(Messenger:)
+67
+68	Ghost of Hamlet's Father. (Ghost:)
+69
+70
+71
+72	SCENE	Denmark.
+73
+74
+75
+76
+77	HAMLET
+78
+79
+80	ACT I
+81
+82
+83
+84	SCENE I	Elsinore. A platform before the castle.
+85
+86
+87	[FRANCISCO at his post. Enter to him BERNARDO]
+88
+89	BERNARDO	Who's there?
+90
+91	FRANCISCO	Nay, answer me: stand, and unfold yourself.
+92
+93	BERNARDO	Long live the king!
+94
+95	FRANCISCO	Bernardo?
+96
+97	BERNARDO	He.
+98
+99	FRANCISCO	You come most carefully upon your hour.
+100
+101	BERNARDO	'Tis now struck twelve; get thee to bed, Francisco.
+102
+103	FRANCISCO	For this relief much thanks: 'tis bitter cold,
+104	And I am sick at heart.
+105
+106	BERNARDO	Have you had quiet guard?
+107
+108	FRANCISCO	Not a mouse stirring.
+109
+110	BERNARDO	Well, good night.
+111	If you do meet Horatio and Marcellus,
+112	The rivals of my watch, bid them make haste.
+113
+114	FRANCISCO	I think I hear them. Stand, ho! Who's there?
+115
+116	[Enter HORATIO and MARCELLUS]
+117
+118	HORATIO	Friends to this ground.
+119
+120	MARCELLUS	And liegemen to the Dane.
+121
+122	FRANCISCO	Give you good night.
+123
+124	MARCELLUS	O, farewell, honest soldier:
+125	Who hath relieved you?
+126
+127	FRANCISCO	Bernardo has my place.
+128	Give you good night.
+129
+130	[Exit]
+131
+132	MARCELLUS	Holla! Bernardo!
+133
+134	BERNARDO	Say,
+135	What, is Horatio there?
+136
+137	HORATIO	A piece of him.
+138
+139	BERNARDO	Welcome, Horatio: welcome, good Marcellus.
+140
+141	MARCELLUS	What, has this thing appear'd again to-night?
+142
+143	BERNARDO	I have seen nothing.
+144
+145	MARCELLUS	Horatio says 'tis but our fantasy,
+146	And will not let belief take hold of him
+147	Touching this dreaded sight, twice seen of us:
+148	Therefore I have entreated him along
+149	With us to watch the minutes of this night;
+150	That if again this apparition come,
+151	He may approve our eyes and speak to it.
+152
+153	HORATIO	Tush, tush, 'twill not appear.
+154
+155	BERNARDO	Sit down awhile;
+156	And let us once again assail your ears,
+157	That are so fortified against our story
+158	What we have two nights seen.
+159
+160	HORATIO	Well, sit we down,
+161	And let us hear Bernardo speak of this.
+162
+163	BERNARDO	Last night of all,
+164	When yond same star that's westward from the pole
+165	Had made his course to illume that part of heaven
+166	Where now it burns, Marcellus and myself,
+167	The bell then beating one,--
+168
+169	[Enter Ghost]
+170
+171	MARCELLUS	Peace, break thee off; look, where it comes again!
+172
+173	BERNARDO	In the same figure, like the king that's dead.
+174
+175	MARCELLUS	Thou art a scholar; speak to it, Horatio.
+176
+177	BERNARDO	Looks it not like the king?  mark it, Horatio.
+178
+179	HORATIO	Most like: it harrows me with fear and wonder.
+180
+181	BERNARDO	It would be spoke to.
+182
+183	MARCELLUS	Question it, Horatio.
+184
+185	HORATIO	What art thou that usurp'st this time of night,
+186	Together with that fair and warlike form
+187	In which the majesty of buried Denmark
+188	Did sometimes march? by heaven I charge thee, speak!
+189
+190	MARCELLUS	It is offended.
+191
+192	BERNARDO	                  See, it stalks away!
+193
+194	HORATIO	Stay! speak, speak! I charge thee, speak!
+195
+196	[Exit Ghost]
+197
+198	MARCELLUS	'Tis gone, and will not answer.
+199
+200	BERNARDO	How now, Horatio! you tremble and look pale:
+201	Is not this something more than fantasy?
+202	What think you on't?
+203
+204	HORATIO	Before my God, I might not this believe
+205	Without the sensible and true avouch
+206	Of mine own eyes.
+207
+208	MARCELLUS	                  Is it not like the king?
+209
+210	HORATIO	As thou art to thyself:
+211	Such was the very armour he had on
+212	When he the ambitious Norway combated;
+213	So frown'd he once, when, in an angry parle,
+214	He smote the sledded Polacks on the ice.
+215	'Tis strange.
+216
+217	MARCELLUS	Thus twice before, and jump at this dead hour,
+218	With martial stalk hath he gone by our watch.
+219
+220	HORATIO	In what particular thought to work I know not;
+221	But in the gross and scope of my opinion,
+222	This bodes some strange eruption to our state.
+223
+224	MARCELLUS	Good now, sit down, and tell me, he that knows,
+225	Why this same strict and most observant watch
+226	So nightly toils the subject of the land,
+227	And why such daily cast of brazen cannon,
+228	And foreign mart for implements of war;
+229	Why such impress of shipwrights, whose sore task
+230	Does not divide the Sunday from the week;
+231	What might be toward, that this sweaty haste
+232	Doth make the night joint-labourer with the day:
+233	Who is't that can inform me?
+234
+235	HORATIO	That can I;
+236	At least, the whisper goes so. Our last king,
+237	Whose image even but now appear'd to us,
+238	Was, as you know, by Fortinbras of Norway,
+239	Thereto prick'd on by a most emulate pride,
+240	Dared to the combat; in which our valiant Hamlet--
+241	For so this side of our known world esteem'd him--
+242	Did slay this Fortinbras; who by a seal'd compact,
+243	Well ratified by law and heraldry,
+244	Did forfeit, with his life, all those his lands
+245	Which he stood seized of, to the conqueror:
+246	Against the which, a moiety competent
+247	Was gaged by our king; which had return'd
+248	To the inheritance of Fortinbras,
+249	Had he been vanquisher; as, by the same covenant,
+250	And carriage of the article design'd,
+251	His fell to Hamlet. Now, sir, young Fortinbras,
+252	Of unimproved mettle hot and full,
+253	Hath in the skirts of Norway here and there
+254	Shark'd up a list of lawless resolutes,
+255	For food and diet, to some enterprise
+256	That hath a stomach in't; which is no other--
+257	As it doth well appear unto our state--
+258	But to recover of us, by strong hand
+259	And terms compulsatory, those foresaid lands
+260	So by his father lost: and this, I take it,
+261	Is the main motive of our preparations,
+262	The source of this our watch and the chief head
+263	Of this post-haste and romage in the land.
+264
+265	BERNARDO	I think it be no other but e'en so:
+266	Well may it sort that this portentous figure
+267	Comes armed through our watch; so like the king
+268	That was and is the question of these wars.
+269
+270	HORATIO	A mote it is to trouble the mind's eye.
+271	In the most high and palmy state of Rome,
+272	A little ere the mightiest Julius fell,
+273	The graves stood tenantless and the sheeted dead
+274	Did squeak and gibber in the Roman streets:
+275	As stars with trains of fire and dews of blood,
+276	Disasters in the sun; and the moist star
+277	Upon whose influence Neptune's empire stands
+278	Was sick almost to doomsday with eclipse:
+279	And even the like precurse of fierce events,
+280	As harbingers preceding still the fates
+281	And prologue to the omen coming on,
+282	Have heaven and earth together demonstrated
+283	Unto our climatures and countrymen.--
+284	But soft, behold! lo, where it comes again!
+285
+286	[Re-enter Ghost]
+287
+288	I'll cross it, though it blast me. Stay, illusion!
+289	If thou hast any sound, or use of voice,
+290	Speak to me:
+291	If there be any good thing to be done,
+292	That may to thee do ease and grace to me,
+293	Speak to me:
+294
+295	[Cock crows]
+296
+297	If thou art privy to thy country's fate,
+298	Which, happily, foreknowing may avoid, O, speak!
+299	Or if thou hast uphoarded in thy life
+300	Extorted treasure in the womb of earth,
+301	For which, they say, you spirits oft walk in death,
+302	Speak of it: stay, and speak! Stop it, Marcellus.
+303
+304	MARCELLUS	Shall I strike at it with my partisan?
+305
+306	HORATIO	Do, if it will not stand.
+307
+308	BERNARDO	'Tis here!
+309
+310	HORATIO	'Tis here!
+311
+312	MARCELLUS	'Tis gone!
+313
+314	[Exit Ghost]
+315
+316	We do it wrong, being so majestical,
+317	To offer it the show of violence;
+318	For it is, as the air, invulnerable,
+319	And our vain blows malicious mockery.
+320
+321	BERNARDO	It was about to speak, when the cock crew.
+322
+323	HORATIO	And then it started like a guilty thing
+324	Upon a fearful summons. I have heard,
+325	The cock, that is the trumpet to the morn,
+326	Doth with his lofty and shrill-sounding throat
+327	Awake the god of day; and, at his warning,
+328	Whether in sea or fire, in earth or air,
+329	The extravagant and erring spirit hies
+330	To his confine: and of the truth herein
+331	This present object made probation.
+332
+333	MARCELLUS	It faded on the crowing of the cock.
+334	Some say that ever 'gainst that season comes
+335	Wherein our Saviour's birth is celebrated,
+336	The bird of dawning singeth all night long:
+337	And then, they say, no spirit dares stir abroad;
+338	The nights are wholesome; then no planets strike,
+339	No fairy takes, nor witch hath power to charm,
+340	So hallow'd and so gracious is the time.
+341
+342	HORATIO	So have I heard and do in part believe it.
+343	But, look, the morn, in russet mantle clad,
+344	Walks o'er the dew of yon high eastward hill:
+345	Break we our watch up; and by my advice,
+346	Let us impart what we have seen to-night
+347	Unto young Hamlet; for, upon my life,
+348	This spirit, dumb to us, will speak to him.
+349	Do you consent we shall acquaint him with it,
+350	As needful in our loves, fitting our duty?
+351
+352	MARCELLUS	Let's do't, I pray; and I this morning know
+353	Where we shall find him most conveniently.
+354
+355	[Exeunt]
+356
+357
+358
+359
+360	HAMLET
+361
+362
+363	ACT I
+364
+365
+366
+367	SCENE II	A room of state in the castle.
+368
+369
+370	[Enter KING CLAUDIUS, QUEEN GERTRUDE, HAMLET,
+371	POLONIUS, LAERTES, VOLTIMAND, CORNELIUS, Lords,
+372	and Attendants]
+373
+374	KING CLAUDIUS	Though yet of Hamlet our dear brother's death
+375	The memory be green, and that it us befitted
+376	To bear our hearts in grief and our whole kingdom
+377	To be contracted in one brow of woe,
+378	Yet so far hath discretion fought with nature
+379	That we with wisest sorrow think on him,
+380	Together with remembrance of ourselves.
+381	Therefore our sometime sister, now our queen,
+382	The imperial jointress to this warlike state,
+383	Have we, as 'twere with a defeated joy,--
+384	With an auspicious and a dropping eye,
+385	With mirth in funeral and with dirge in marriage,
+386	In equal scale weighing delight and dole,--
+387	Taken to wife: nor have we herein barr'd
+388	Your better wisdoms, which have freely gone
+389	With this affair along. For all, our thanks.
+390	Now follows, that you know, young Fortinbras,
+391	Holding a weak supposal of our worth,
+392	Or thinking by our late dear brother's death
+393	Our state to be disjoint and out of frame,
+394	Colleagued with the dream of his advantage,
+395	He hath not fail'd to pester us with message,
+396	Importing the surrender of those lands
+397	Lost by his father, with all bonds of law,
+398	To our most valiant brother. So much for him.
+399	Now for ourself and for this time of meeting:
+400	Thus much the business is: we have here writ
+401	To Norway, uncle of young Fortinbras,--
+402	Who, impotent and bed-rid, scarcely hears
+403	Of this his nephew's purpose,--to suppress
+404	His further gait herein; in that the levies,
+405	The lists and full proportions, are all made
+406	Out of his subject: and we here dispatch
+407	You, good Cornelius, and you, Voltimand,
+408	For bearers of this greeting to old Norway;
+409	Giving to you no further personal power
+410	To business with the king, more than the scope
+411	Of these delated articles allow.
+412	Farewell, and let your haste commend your duty.
+413
+414
+415	CORNELIUS	|
+416	|  In that and all things will we show our duty.
+417	VOLTIMAND	|
+418
+419
+420	KING CLAUDIUS	We doubt it nothing: heartily farewell.
+421
+422	[Exeunt VOLTIMAND and CORNELIUS]
+423
+424	And now, Laertes, what's the news with you?
+425	You told us of some suit; what is't, Laertes?
+426	You cannot speak of reason to the Dane,
+427	And loose your voice: what wouldst thou beg, Laertes,
+428	That shall not be my offer, not thy asking?
+429	The head is not more native to the heart,
+430	The hand more instrumental to the mouth,
+431	Than is the throne of Denmark to thy father.
+432	What wouldst thou have, Laertes?
+433
+434	LAERTES	My dread lord,
+435	Your leave and favour to return to France;
+436	From whence though willingly I came to Denmark,
+437	To show my duty in your coronation,
+438	Yet now, I must confess, that duty done,
+439	My thoughts and wishes bend again toward France
+440	And bow them to your gracious leave and pardon.
+441
+442	KING CLAUDIUS	Have you your father's leave? What says Polonius?
+443
+444	LORD POLONIUS	He hath, my lord, wrung from me my slow leave
+445	By laboursome petition, and at last
+446	Upon his will I seal'd my hard consent:
+447	I do beseech you, give him leave to go.
+448
+449	KING CLAUDIUS	Take thy fair hour, Laertes; time be thine,
+450	And thy best graces spend it at thy will!
+451	But now, my cousin Hamlet, and my son,--
+452
+453	HAMLET	[Aside]  A little more than kin, and less than kind.
+454
+455	KING CLAUDIUS	How is it that the clouds still hang on you?
+456
+457	HAMLET	Not so, my lord; I am too much i' the sun.
+458
+459	QUEEN GERTRUDE	Good Hamlet, cast thy nighted colour off,
+460	And let thine eye look like a friend on Denmark.
+461	Do not for ever with thy vailed lids
+462	Seek for thy noble father in the dust:
+463	Thou know'st 'tis common; all that lives must die,
+464	Passing through nature to eternity.
+465
+466	HAMLET	Ay, madam, it is common.
+467
+468	QUEEN GERTRUDE	If it be,
+469	Why seems it so particular with thee?
+470
+471	HAMLET	Seems, madam! nay it is; I know not 'seems.'
+472	'Tis not alone my inky cloak, good mother,
+473	Nor customary suits of solemn black,
+474	Nor windy suspiration of forced breath,
+475	No, nor the fruitful river in the eye,
+476	Nor the dejected 'havior of the visage,
+477	Together with all forms, moods, shapes of grief,
+478	That can denote me truly: these indeed seem,
+479	For they are actions that a man might play:
+480	But I have that within which passeth show;
+481	These but the trappings and the suits of woe.
+482
+483	KING CLAUDIUS	'Tis sweet and commendable in your nature, Hamlet,
+484	To give these mourning duties to your father:
+485	But, you must know, your father lost a father;
+486	That father lost, lost his, and the survivor bound
+487	In filial obligation for some term
+488	To do obsequious sorrow: but to persever
+489	In obstinate condolement is a course
+490	Of impious stubbornness; 'tis unmanly grief;
+491	It shows a will most incorrect to heaven,
+492	A heart unfortified, a mind impatient,
+493	An understanding simple and unschool'd:
+494	For what we know must be and is as common
+495	As any the most vulgar thing to sense,
+496	Why should we in our peevish opposition
+497	Take it to heart? Fie! 'tis a fault to heaven,
+498	A fault against the dead, a fault to nature,
+499	To reason most absurd: whose common theme
+500	Is death of fathers, and who still hath cried,
