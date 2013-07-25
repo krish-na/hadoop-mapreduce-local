@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<configuration>
+    <property>
+        <name>fs.default.name</name>
+        <value>hdfs://ec2-67-202-19-97.compute-1.amazonaws.com:9000</value>
+    </property>
+
+    <property>
+        <name>hadoop.job.ugi</name>
+        <value>ec2-user</value>
+    </property>
+
+    <property>
+        <name>mapred.job.tracker</name>
+        <value>ec2-67-202-19-97.compute-1.amazonaws.com:54311</value>
+    </property>
+
+    <property>
+        <name>author</name>
+        <value>vamsi</value>
+    </property>
+</configuration>
