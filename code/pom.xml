@@ -11,7 +11,6 @@
         <module>logAnalysis</module>
         <module>averageWordLength</module>
         <module>logAnalysisCounters</module>
-        <module>sequenceFile</module>
         <module>invertedIndex</module>
     </modules>
 
