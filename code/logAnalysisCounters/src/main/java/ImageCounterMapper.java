@@ -1,7 +1,10 @@
+import org.apache.hadoop.conf.Configuration;
 import org.apache.hadoop.io.IntWritable;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
+import org.apache.log4j.Level;
+import org.apache.log4j.Logger;
 
 import java.io.IOException;
 import java.util.HashMap;
@@ -13,6 +16,7 @@ import java.util.HashMap;
  */
 public class ImageCounterMapper extends Mapper<LongWritable, Text, Text, IntWritable> {
 
+    private static final Logger LOGGER = Logger.getLogger(ImageCounterMapper.class.getName());
     HashMap<String, Object> imageFormats;
     Object acceptedImg;
 
@@ -27,6 +31,15 @@ public class ImageCounterMapper extends Mapper<LongWritable, Text, Text, IntWrit
         imageFormats.put("jpeg", acceptedImg);
         imageFormats.put("ico", acceptedImg);
         imageFormats.put("vam", acceptedImg);  //just for fun
+
+        Configuration conf = context.getConfiguration();
+        if ("DEBUG".equals(conf.get("com.vamsi.log4j.level"))) {
+            LOGGER.setLevel(Level.DEBUG);
+            LOGGER.debug("->Log Level set to DEBUG <-");
+        } else if("INFO".equals(conf.get("com.vamsi.log4j.level"))) {
+            LOGGER.setLevel(Level.INFO);
+            LOGGER.info("->Log Level set to INFO <-");
+        }
     }
 
     @Override

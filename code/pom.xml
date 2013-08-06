@@ -24,6 +24,7 @@
     <properties>
         <hadoop.version>1.1.2</hadoop.version>
         <mrunit.version>1.0.0</mrunit.version>
+        <log4j.version>1.2.17</log4j.version>
     </properties>
 
     <dependencies>
@@ -53,6 +54,10 @@
             <version>${mrunit.version}</version>
             <classifier>hadoop1</classifier>
         </dependency>
+        <dependency>
+            <groupId>log4j</groupId>
+            <artifactId>log4j</artifactId>
+            <version>${log4j.version}</version>
+        </dependency>
     </dependencies>
-
 </project>
