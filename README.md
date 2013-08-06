@@ -1,5 +1,5 @@
 <h1>Introduction</h1>
-Sample bootstrap Maven project for running local (or cluster if you have one) MapReduce (v1/v2) jobs. I use Maven for partial dependency management, compilation, running MRUnit tests, and packaging a jar file.
+Bootstrap Maven project for running local (or cluster if you have one) MapReduce (v1/v2) jobs. I use Maven for partial dependency management, compilation, running MRUnit tests, and packaging a jar file.
 
 <h2>Outline</h2>
 
