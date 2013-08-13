@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<configuration>
+
+    <!-- Optional properties for data compression -->
+    <property>
+        <name>mapred.compress.map.output</name>
+        <value>true</value>
+    </property>
+    <property>
+        <name>mapred.output.compression.type</name>
+        <value>BLOCK</value>
+    </property>
+    <property>
+        <name>mapred.output.compression</name>
+        <value>org.apache.hadoop.io.compress.SnappyCodec</value>
+    </property>
+
+</configuration>
