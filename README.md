@@ -4,11 +4,11 @@ Bootstrap Maven project for running local (or cluster if you have one) MapReduce
 <h2>Outline</h2>
 
 1. manOfSteelReview - classic word count example, but using Man Of Steel review from various websites. Would like to eventually use Flume to ingest from Twitter streams hash tags
-2. averageWordLenght - another classic mapreduce sample, compute average word length 
+2. averageWordLength - another classic mapreduce sample, compute average word length 
 3. invertedIndex - create an inverted index of every word from list of files
 4. logAnalysisCounter - example project to demonstrate MapReduce Counters functionality
 5. logAnalysis - example project deonstrating MapReduce multiple partitioners, where individual logs files are generated on a month basis
-6. more to come!
+6. tidem - text analyzer that processes text and provides information about its word contents. Generate key value pairs that shows a count of how many times each word occurs in the text. Result is Primary sort by word length, and a Secondary sort based on ASCII.
 
 <h2>Setup</h2>
 
